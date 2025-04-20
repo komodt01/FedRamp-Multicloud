@@ -1,0 +1,1 @@
+﻿# Terraform config for aws
